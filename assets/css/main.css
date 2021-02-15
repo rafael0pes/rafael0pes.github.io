@@ -4782,3 +4782,8 @@ input, select, textarea {
 		0% { width: 0; }
 		100% { width: 70%; }
 	  }
+
+	@keyframes portugues {
+		0% { width: 0; }
+		100% { width: 100%; }
+	  }
